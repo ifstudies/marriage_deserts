@@ -1,4 +1,4 @@
-# Decennial-Census Based Marriage and Family Formation Visualizations
+# Marriage Desert Visualizations
 
-[Click here](https://ifstudies.github.io/dec_msmaps/) to view the GitHub Pages site that features the content contained in this repository, 
+[Click here](http://ifstudies.github.io/marriage_deserts) to view the GitHub Pages site that features the content contained in this repository, 
 
