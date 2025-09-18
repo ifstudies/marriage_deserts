@@ -12,9 +12,15 @@ To create these maps and tables, I first grouped desert regions together, then d
 
 *(Note: the population values shown within these maps and tables represent the number of householders aged 15-64 rather than the total population.)*
 
+#### Grouped-tract deserts
 [Map of the top 10 grouped tract-level deserts and gardens](maps/pct_15_64_married_tract_top_10_deserts_and_gardens.html)
 
-[Table showing the top 100 grouped tract-level deserts](tables/100_largest_marriage_deserts_by_population.html)
+[Table showing the top 100 grouped tract-level deserts](tables/100_largest_marriage_grouped_tract_deserts_by_population.html)
+
+#### Grouped-PUMA deserts
+[Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_top_10_deserts_and_gardens.html)
+
+[Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_marriage_grouped_puma_deserts_by_population.html)
 
 ### Largest contiguous married-family deserts
 
@@ -22,9 +28,15 @@ These analyses show the married-family deserts with the largest numbers of house
 
 *(Note: the population values shown within these maps and tables represent the number of households with children rather than the total population.)*
 
-[Map of the top 10 grouped deserts and gardens](maps/pct_married_family_tract_top_10_deserts_and_gardens.html)
+#### Grouped-tract deserts
+[Map of the top 10 grouped tract-level deserts and gardens](maps/pct_married_family_tract_top_10_deserts_and_gardens.html)
 
-[Table showing the top 100 grouped deserts](tables/100_largest_married_family_deserts_by_population.html)
+[Table showing the top 100 grouped tract-level deserts](tables/100_largest_married_family_grouped_tract_deserts_by_population.html)
+
+#### Grouped-PUMA deserts
+[Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_top_10_deserts_and_gardens.html)
+
+[Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_married_family_grouped_puma_deserts_by_population.html)
 
 ## Categorical Census tract maps
 
@@ -65,6 +77,17 @@ These maps are 'cropped' versions of our national marriage and married-family tr
 [NYC](maps/cropped_married_family_map_for_NYC.html)
 
 [LA](maps/cropped_married_family_map_for_Los_Angeles.html)
+
+## PUMA-level Cartograms
+
+[% of householders aged 15-64, by PUMA, who are married](maps/pct_15_64_married_puma_cartogram.html)
+
+Note: in this map, the area of each PUMA represents *the number of householders aged 15-64* in that PUMA. 
+
+[% of households with kids, by PUMA, that are led by a married couple](maps/pct_intact_puma_cartogram.html)
+
+Note: in this map, the area of each PUMA represents *the number of households with kids* in that PUMA.
+
 
 ### Author:
 [Institute for Family Studies](https://ifstudies.org)
