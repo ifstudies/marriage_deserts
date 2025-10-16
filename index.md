@@ -15,10 +15,14 @@ To create these maps and tables, I first grouped desert regions together, then d
 #### Grouped-tract deserts
 [Map of the top 10 grouped tract-level deserts and gardens](maps/pct_15_64_married_tract_top_10_deserts_and_gardens.html)
 
+[Map of *all* grouped tract-level deserts and gardens](maps/pct_15_64_married_tract_all_deserts_and_gardens.html)
+
 [Table showing the top 100 grouped tract-level deserts](tables/100_largest_marriage_grouped_tract_deserts_by_population.html)
 
 #### Grouped-PUMA deserts
 [Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_top_10_deserts_and_gardens.html)
+
+[Map of *all* grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_marriage_grouped_puma_deserts_by_population.html)
 
@@ -31,27 +35,35 @@ These analyses show the married-family deserts with the largest numbers of house
 #### Grouped-tract deserts
 [Map of the top 10 grouped tract-level deserts and gardens](maps/pct_married_family_tract_top_10_deserts_and_gardens.html)
 
+[Map of *all* grouped tract-level deserts and gardens](maps/pct_married_family_tract_all_deserts_and_gardens.html)
+
 [Table showing the top 100 grouped tract-level deserts](tables/100_largest_married_family_grouped_tract_deserts_by_population.html)
 
 #### Grouped-PUMA deserts
 [Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_top_10_deserts_and_gardens.html)
 
+[Map of *all* grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_all_deserts_and_gardens.html)
+
 [Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_married_family_grouped_puma_deserts_by_population.html)
 
-## Categorical Census tract maps
+## Categorical Census tract and PUMA maps
 
 These maps group regions into four different categories: *Deserts*, *Lower share* areas, *Higher share* areas, and *Gardens.* These categories are based on percentiles for regions with a relevant population of at least *100*.
+
+### Tract-level maps:
 
 [% of householders aged 15-64, by Census tract, who are married](maps/pct_15_64_married_tract_categorical_map.html)
 
 [% of households with kids, by Census tract, that are led by a married couple](maps/pct_married_family_tract_categorical_map.html)
+
+### PUMA-level maps:
 
 [% of householders aged 15-64, by PUMA, who are married](maps/pct_15_64_married_puma_categorical_map.html)
 
 [% of households with kids, by PUMA, that are led by a married couple](maps/pct_married_family_puma_categorical_map.html)
 
 
-### Corresponding data tables
+### Corresponding tract- and PUMA-level data tables
 
 [% of householders aged 15-64, by Census tract, who are married](tables/pct_15_64_married_tract_table.html)
 
