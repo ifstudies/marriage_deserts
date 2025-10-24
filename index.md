@@ -6,25 +6,32 @@ Note: Maps and tables that show the percentage of householders aged 15-64 who ar
 
 ### Largest contiguous marriage deserts
 
-These maps and tables show the largest contiguous marriage deserts by number of householders aged 15-64. (For this analysis, a tract is considered a 'marriage desert' if (a) fewer than 27% of the householders aged 15-64 who live there are married and (b) it has at least 100 householders aged 15-64.)
+These maps and tables show the largest contiguous marriage deserts and gardens by number of householders aged 15-64. (For this analysis, a tract is considered a 'marriage desert' if (a) fewer than 27% of the householders aged 15-64 who live there are married and (b) it has at least 100 householders aged 15-64.)
 
 To create these maps and tables, I first grouped desert regions together, then determined which regions had the highest number of householders aged 15-64. 
 
 *(Note: the population values shown within these maps and tables represent the number of householders aged 15-64 rather than the total population.)*
 
-#### Grouped-tract deserts
+#### Grouped-tract deserts and gardens
 [Map of the top 10 grouped tract-level deserts and gardens](maps/pct_15_64_married_tract_top_10_deserts_and_gardens.html)
 
 [Map of *all* grouped tract-level deserts and gardens](maps/pct_15_64_married_tract_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped tract-level deserts](tables/100_largest_marriage_grouped_tract_deserts_by_population.html)
 
-#### Grouped-PUMA deserts
+[Table showing the top 100 grouped tract-level gardens](tables/100_largest_marriage_grouped_tract_gardens_by_population.html)
+
+#### Grouped-PUMA deserts and gardens
+
+[Note: PUMA is an abbreviation for *Public Use Microdata Area*.]
+
 [Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_top_10_deserts_and_gardens.html)
 
 [Map of *all* grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_marriage_grouped_puma_deserts_by_population.html)
+
+[Table showing the top 100 grouped PUMA-level gardens](tables/100_largest_marriage_grouped_puma_gardens_by_population.html)
 
 ### Largest contiguous married-family deserts
 
@@ -32,19 +39,23 @@ These analyses show the married-family deserts with the largest numbers of house
 
 *(Note: the population values shown within these maps and tables represent the number of households with children rather than the total population.)*
 
-#### Grouped-tract deserts
+#### Grouped-tract deserts and gardens
 [Map of the top 10 grouped tract-level deserts and gardens](maps/pct_married_family_tract_top_10_deserts_and_gardens.html)
 
 [Map of *all* grouped tract-level deserts and gardens](maps/pct_married_family_tract_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped tract-level deserts](tables/100_largest_married_family_grouped_tract_deserts_by_population.html)
 
-#### Grouped-PUMA deserts
+[Table showing the top 100 grouped tract-level gardens](tables/100_largest_married_family_grouped_tract_gardens_by_population.html)
+
+#### Grouped-PUMA deserts and gardens
 [Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_top_10_deserts_and_gardens.html)
 
 [Map of *all* grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_married_family_grouped_puma_deserts_by_population.html)
+
+[Table showing the top 100 grouped PUMA-level gardens](tables/100_largest_married_family_grouped_puma_gardens_by_population.html)
 
 ## Categorical Census tract and PUMA maps
 
@@ -90,7 +101,7 @@ These maps are 'cropped' versions of our national marriage and married-family tr
 
 [LA](maps/cropped_married_family_map_for_Los_Angeles.html)
 
-## PUMA-level Cartograms
+## PUMA-level cartograms
 
 [% of householders aged 15-64, by PUMA, who are married](maps/pct_15_64_married_puma_cartogram.html)
 
