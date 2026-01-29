@@ -1,6 +1,6 @@
 # Visualizations of Marriage and Family Formation Data Within 2020 Decennial Census for our 'Marriage Deserts' brief
 
-**Note: This page now uses rounded 10th and 90th percentiles as cutoffs for deserts and gardens, respectively. Previously, rounded 12.5th and 87.5th percentiles were used. (Older maps and tables that use these earlier percentiles can still be found under each map for comparison purposes.)**
+**Note: This page now uses rounded 10th and 90th percentiles as cutoffs for deserts and gardens, respectively.**
 
 Note: Maps and tables that show the percentage of householders aged 15-64 who are married include only those areas with at least 100 householders in that age range; similarly, maps that show the percentage of households with kids that are led by married couples include only those areas with at least 100 households with kids.
 
@@ -17,19 +17,11 @@ To create these maps and tables, I first grouped desert regions together, then d
 #### Grouped-tract deserts and gardens
 [Map of the top 10 grouped tract-level deserts and gardens](maps/pct_15_64_married_tract_top_10_deserts_and_gardens.html)
 
-[Map of the top 10 grouped tract-level deserts and gardens (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_15_64_married_tract_top_10_deserts_and_gardens.html)
-
 [Map of *all* grouped tract-level deserts and gardens](maps/pct_15_64_married_tract_all_deserts_and_gardens.html)
-
-[Map of *all* grouped tract-level deserts and gardens (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_15_64_married_tract_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped tract-level deserts](tables/100_largest_marriage_grouped_tract_deserts_by_population.html)
 
-[Table showing the top 100 grouped tract-level deserts (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/100_largest_marriage_grouped_tract_deserts_by_population.html)
-
 [Table showing the top 100 grouped tract-level gardens](tables/100_largest_marriage_grouped_tract_gardens_by_population.html)
-
-[Table showing the top 100 grouped tract-level gardens (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/100_largest_marriage_grouped_tract_gardens_by_population.html)
 
 #### Grouped-PUMA deserts and gardens
 
@@ -37,19 +29,11 @@ To create these maps and tables, I first grouped desert regions together, then d
 
 [Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_top_10_deserts_and_gardens.html)
 
-[Map of the top 10 grouped PUMA-level deserts and gardens (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_15_64_married_puma_top_10_deserts_and_gardens.html)
-
 [Map of *all* grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_all_deserts_and_gardens.html)
-
-[Map of *all* grouped PUMA-level deserts and gardens (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_15_64_married_puma_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_marriage_grouped_puma_deserts_by_population.html)
 
-[Table showing the top 100 grouped PUMA-level deserts (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/100_largest_marriage_grouped_puma_deserts_by_population.html)
-
 [Table showing the top 100 grouped PUMA-level gardens](tables/100_largest_marriage_grouped_puma_gardens_by_population.html)
-
-[Table showing the top 100 grouped PUMA-level gardens (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/100_largest_marriage_grouped_puma_gardens_by_population.html)
 
 ### Largest contiguous married-family deserts
 
@@ -60,39 +44,21 @@ These analyses show the married-family deserts with the largest numbers of house
 #### Grouped-tract deserts and gardens
 [Map of the top 10 grouped tract-level deserts and gardens](maps/pct_married_family_tract_top_10_deserts_and_gardens.html)
 
-[Map of the top 10 grouped tract-level deserts and gardens (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_married_family_tract_top_10_deserts_and_gardens.html)
-
 [Map of *all* grouped tract-level deserts and gardens](maps/pct_married_family_tract_all_deserts_and_gardens.html)
-
-[Map of *all* grouped tract-level deserts and gardens (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_married_family_tract_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped tract-level deserts](tables/100_largest_married_family_grouped_tract_deserts_by_population.html)
 
-[Table showing the top 100 grouped tract-level deserts (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/100_largest_married_family_grouped_tract_deserts_by_population.html)
-
 [Table showing the top 100 grouped tract-level gardens](tables/100_largest_married_family_grouped_tract_gardens_by_population.html)
-
-[Table showing the top 100 grouped tract-level gardens (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/100_largest_married_family_grouped_tract_gardens_by_population.html)
-
-
 
 
 #### Grouped-PUMA deserts and gardens
 [Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_top_10_deserts_and_gardens.html)
 
-[Map of the top 10 grouped PUMA-level deserts and gardens (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_married_family_puma_top_10_deserts_and_gardens.html)
-
 [Map of *all* grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_all_deserts_and_gardens.html)
-
-[Map of *all* grouped PUMA-level deserts and gardens (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_married_family_puma_all_deserts_and_gardens.html)
 
 [Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_married_family_grouped_puma_deserts_by_population.html)
 
-[Table showing the top 100 grouped PUMA-level deserts (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/100_largest_married_family_grouped_puma_deserts_by_population.html)
-
 [Table showing the top 100 grouped PUMA-level gardens](tables/100_largest_married_family_grouped_puma_gardens_by_population.html)
-
-[Table showing the top 100 grouped PUMA-level gardens (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/100_largest_married_family_grouped_puma_gardens_by_population.html)
 
 ## Categorical Census tract and PUMA maps
 
@@ -102,41 +68,23 @@ These maps group regions into four different categories: *Deserts*, *Lower share
 
 [% of householders aged 15-64, by Census tract, who are married](maps/pct_15_64_married_tract_categorical_map.html)
 
-[% of householders aged 15-64, by Census tract, who are married (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_15_64_married_tract_categorical_map.html)
-
 [% of households with kids, by Census tract, that are led by a married couple](maps/pct_married_family_tract_categorical_map.html)
-
-[% of households with kids, by Census tract, that are led by a married couple (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_married_family_tract_categorical_map.html)
 
 ### PUMA-level maps:
 
 [% of householders aged 15-64, by PUMA, who are married](maps/pct_15_64_married_puma_categorical_map.html)
 
-[% of householders aged 15-64, by PUMA, who are married (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_15_64_married_puma_categorical_map.html)
-
 [% of households with kids, by PUMA, that are led by a married couple](maps/pct_married_family_puma_categorical_map.html)
-
-[% of households with kids, by PUMA, that are led by a married couple (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_married_family_puma_categorical_map.html)
-
 
 ### Corresponding tract- and PUMA-level data tables
 
 [% of householders aged 15-64, by Census tract, who are married](tables/pct_15_64_married_tract_table.html)
 
-[% of householders aged 15-64, by Census tract, who are married (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/pct_15_64_married_tract_table.html)
-
 [% of households with kids, by Census tract, that are led by a married couple](tables/pct_married_family_tract_table.html)
-
-[% of households with kids, by Census tract, that are led by a married couple (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/pct_married_family_tract_table.html)
 
 [% of householders aged 15-64, by PUMA, who are married](tables/pct_15_64_married_puma_table.html)
 
-[% of householders aged 15-64, by PUMA, who are married (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/pct_15_64_married_puma_table.html)
-
 [% of households with kids, by PUMA, that are led by a married couple](tables/pct_married_family_puma_table.html)
-
-[% of households with kids, by PUMA, that are led by a married couple (with 12.5/87.5 cutoffs)](tables_87pt5_12pt5/pct_married_family_puma_table.html)
-
 
 ## Regional maps
 
@@ -146,21 +94,13 @@ These maps are 'cropped' versions of our national marriage and married-family tr
 
 [NYC](maps/cropped_Married_map_for_NYC.html)
 
-[NYC (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/cropped_Married_map_for_NYC.html)
-
 [LA](maps/cropped_Married_map_for_Los_Angeles.html)
-
-[LA (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/cropped_Married_map_for_Los_Angeles.html)
 
 ### % of households with kids that are led by a married couple
 
 [NYC](maps/cropped_married_family_map_for_NYC.html)
 
-[NYC (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/cropped_married_family_map_for_NYC.html)
-
 [LA](maps/cropped_married_family_map_for_Los_Angeles.html)
-
-[LA (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/cropped_married_family_map_for_Los_Angeles.html)
 
 ## PUMA-level cartograms
 
@@ -168,15 +108,9 @@ These maps are 'cropped' versions of our national marriage and married-family tr
 
 Note: in this map, the area of each PUMA represents *the number of householders aged 15-64* in that PUMA. 
 
-[% of householders aged 15-64, by PUMA, who are married (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_15_64_married_puma_cartogram.html)
-
-
-
 [% of households with kids, by PUMA, that are led by a married couple](maps/pct_intact_puma_cartogram.html)
 
 Note: in this map, the area of each PUMA represents *the number of households with kids* in that PUMA.
-
-[% of households with kids, by PUMA, that are led by a married couple (with 12.5/87.5 cutoffs)](maps_87pt5_12pt5/pct_intact_puma_cartogram.html)
 
 
 ### Author:
