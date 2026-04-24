@@ -3,6 +3,8 @@
 **Note: This page now uses rounded 10th and 90th percentiles as cutoffs for deserts and gardens, respectively.**
 
 
+[Combined page that shows all assets](combined_maps_and_tables.html)
+
 ## Contiguous-desert maps and tables
 
 ### Largest contiguous marriage deserts
