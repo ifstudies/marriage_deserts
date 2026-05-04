@@ -21,6 +21,8 @@ To create these maps and tables, I first grouped desert regions together, then d
 
 [Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_top_10_deserts_and_gardens_with_template.html)
 
+[Map of all grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_all_deserts_and_gardens_with_template.html)
+
 [Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_marriage_grouped_puma_deserts_by_population.html)
 
 [Table showing the top 100 grouped PUMA-level gardens](tables/100_largest_marriage_grouped_puma_gardens_by_population.html)
@@ -34,6 +36,8 @@ These analyses show the married-family deserts with the largest numbers of house
 
 #### Grouped-PUMA deserts and gardens
 [Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_top_10_deserts_and_gardens_with_template.html)
+
+[Map of all grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_all_deserts_and_gardens_with_template.html)
 
 [Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_married_family_grouped_puma_deserts_by_population.html)
 
