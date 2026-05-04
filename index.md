@@ -7,7 +7,7 @@
 
 ## Contiguous-desert maps and tables
 
-### Largest contiguous marriage deserts
+### Largest grouped marriage deserts
 
 These maps and tables show the largest contiguous marriage deserts and gardens by number of householders aged 15-64. 
 
@@ -19,13 +19,13 @@ To create these maps and tables, I first grouped desert regions together, then d
 
 [Note: PUMA is an abbreviation for *Public Use Microdata Area*.]
 
-[Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_top_10_deserts_and_gardens_with_template.html)
+[Map of the top 10 grouped PUMA-level deserts and gardens](final_maps_and_tables/pct_15_64_married_puma_top_10_deserts_and_gardens_with_template.html)
 
-[Map of all grouped PUMA-level deserts and gardens](maps/pct_15_64_married_puma_all_deserts_and_gardens_with_template.html)
+[Map of all grouped PUMA-level deserts and gardens](final_maps_and_tables/pct_15_64_married_puma_all_deserts_and_gardens_with_template.html)
 
-[Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_marriage_grouped_puma_deserts_by_population.html)
+[Table showing the top 100 grouped PUMA-level deserts](final_maps_and_tables/100_largest_marriage_grouped_puma_deserts_by_population_table_with_template.html)
 
-[Table showing the top 100 grouped PUMA-level gardens](tables/100_largest_marriage_grouped_puma_gardens_by_population.html)
+[Table showing the top 100 grouped PUMA-level gardens](final_maps_and_tables/100_largest_marriage_grouped_puma_gardens_by_population_table_with_template.html)
 
 ### Largest contiguous married-family deserts
 
@@ -35,13 +35,13 @@ These analyses show the married-family deserts with the largest numbers of house
 
 
 #### Grouped-PUMA deserts and gardens
-[Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_top_10_deserts_and_gardens_with_template.html)
+[Map of the top 10 grouped PUMA-level deserts and gardens](final_maps_and_tables/pct_married_family_puma_top_10_deserts_and_gardens_with_template.html)
 
-[Map of all grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_all_deserts_and_gardens_with_template.html)
+[Map of all grouped PUMA-level deserts and gardens](final_maps_and_tables/pct_married_family_puma_all_deserts_and_gardens_with_template.html)
 
-[Table showing the top 100 grouped PUMA-level deserts](tables/100_largest_married_family_grouped_puma_deserts_by_population.html)
+[Table showing the top 100 grouped PUMA-level deserts](final_maps_and_tables/100_largest_married_family_grouped_puma_deserts_by_population_table_with_template.html)
 
-[Table showing the top 100 grouped PUMA-level gardens](tables/100_largest_married_family_grouped_puma_gardens_by_population.html)
+[Table showing the top 100 grouped PUMA-level gardens](final_maps_and_tables/100_largest_married_family_grouped_puma_gardens_by_population_table_with_template.html)
 
 ## Categorical Census PUMA maps
 
@@ -49,25 +49,29 @@ These maps group regions into four different categories: *Deserts*, *Lower share
 
 ### PUMA-level maps:
 
-[% of householders aged 15-64, by PUMA, who are married](maps/pct_15_64_married_puma_categorical_map_with_template.html)
+[% of householders aged 15-64, by PUMA, who are married](final_maps_and_tables/pct_15_64_married_puma_categorical_map_with_template.html)
 
-[% of households with kids, by PUMA, that are led by a married couple](maps/pct_married_family_puma_categorical_map_with_template.html)
+[% of households with kids, by PUMA, that are led by a married couple](final_maps_and_tables/pct_married_family_puma_categorical_map_with_template.html)
 
 ### Corresponding PUMA-level data tables
 
-[% of householders aged 15-64, by PUMA, who are married](tables/pct_15_64_married_puma_table.html)
+### Marriage tables
 
-[% of households with kids, by PUMA, that are led by a married couple](tables/pct_married_family_puma_table.html)
+[% of householders aged 15-64, by PUMA, who are married](final_maps_and_tables/pct_15_64_married_puma_table_branded_with_template.html)
 
-## PUMA-level cartograms
+[Top marriage deserts](pct_15_64_married_puma_table_top_100_deserts_with_template.html)
 
-[% of householders aged 15-64, by PUMA, who are married](maps/pct_15_64_married_puma_cartogram_with_template.html)
+[Top marriage gardens](pct_15_64_married_puma_table_top_100_gardens_with_template.html)
 
-Note: in this map, the area of each PUMA represents *the number of householders aged 15-64* in that PUMA. 
+### Married-family tables
 
-[% of households with kids, by PUMA, that are led by a married couple](maps/pct_married_family_puma_cartogram_with_template.html)
+[% of households with kids, by PUMA, that are led by a married couple](final_maps_and_tables/pct_married_family_puma_table_branded_with_template.html)
 
-Note: in this map, the area of each PUMA represents *the number of households with kids* in that PUMA.
+[Top married-family deserts](pct_15_64_married_family_puma_table_top_100_deserts_with_template.html)
+
+[Top married-family gardens](pct_15_64_married_family_puma_table_top_100_gardens_with_template.html)
+
+
 
 
 ### Author:
