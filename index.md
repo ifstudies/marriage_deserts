@@ -67,9 +67,9 @@ These maps group regions into four different categories: *Deserts*, *Lower share
 
 [% of households with kids, by PUMA, that are led by a married couple](final_maps_and_tables/pct_married_family_puma_table_branded_with_template.html)
 
-[Top married-family deserts](final_maps_and_tables/pct_15_64_married_family_puma_table_top_100_deserts_with_template.html)
+[Top married-family deserts](final_maps_and_tables/pct_married_family_puma_table_top_100_deserts_with_template.html)
 
-[Top married-family gardens](final_maps_and_tables/pct_15_64_married_family_puma_table_top_100_gardens_with_template.html)
+[Top married-family gardens](final_maps_and_tables/pct_married_family_puma_table_top_100_gardens_with_template.html)
 
 
 
